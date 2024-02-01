@@ -1,4 +1,4 @@
-var websitelist = ["https://www.coolmathgames.com/","https://www.crazygames.com/", "https://77games.io/", "https://poki.com/", "https://www.gamesgames.com/"]
+var websitelist = ["https://www.coolmathgames.com/","https://www.crazygames.com/", "https://77games.io/", "https://poki.com/", "https://www.gamesgames.com/", "https://www.hp.com/", "https://sites.google.com/site/unblockedgame76/"]
 
 function pingURL() { 
   
